@@ -6,4 +6,4 @@ My name is Elsa, I am from Seattle, Washington, and I am a Senior Computer Scien
 - [Design for Understanding](https://medium.com/@eluthi15/welcome-to-del-taco-a47d38f87c32)
 - [Design for Wellbeing](https://medium.com/@eluthi15/feeling-sleepy-9c663a3153)
 - [Design for Another World](https://medium.com/@eluthi15/design-for-another-world-group-design-doc-8e275f993a08)
-- [Reflection]()
+- [Reflection](https://medium.com/@eluthi15/manifesto-9a3027aa24dc)
